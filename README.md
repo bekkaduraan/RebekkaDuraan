@@ -14,7 +14,7 @@ Instructions on how to build the Docker container from the compressed tarball.
 
 + Extract files from compressed tarball file "Rebekka.tar.gz"
 
-+ Open files in Visual Code Studio
++ Open folder named "Rebekka" in Visual Code Studio
 
 + Run the command below to build the docker file
 ```
