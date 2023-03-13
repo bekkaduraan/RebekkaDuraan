@@ -18,7 +18,7 @@ Instructions on how to build the Docker container from the compressed tarball.
 
 + Run the command below to build the docker file
 ```
-% docker build -t fibonacci-term
+% docker build -t fibonacci-term .
 ```
 # Run instructions
 Instructions on how to run docker file
